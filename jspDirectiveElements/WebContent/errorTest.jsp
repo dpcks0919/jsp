@@ -4,7 +4,7 @@
   
 <%@ page errorPage="myerrorpage.jsp" %>  
   
-<%= 100/0 %>  
+<%= 1200/0 %>  
   
 </body>  
 </html>  
